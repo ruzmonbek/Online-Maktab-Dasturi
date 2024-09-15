@@ -1,0 +1,1940 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 784
+  ClientWidth = 951
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Position.X = 312.000000000000000000
+    Position.Y = 224.000000000000000000
+    TabOrder = 0
+    object Rectangle4: TRectangle
+      Position.X = 336.000000000000000000
+      Position.Y = 16.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      object Rectangle32: TRectangle
+        Position.X = 56.000000000000000000
+        Position.Y = 16.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        object RoundRect1: TRoundRect
+          Position.X = 40.000000000000000000
+          Position.Y = 8.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+        object Text8: TText
+          Position.X = 224.000000000000000000
+          Position.Y = 8.000000000000000000
+          object Text9: TText
+            Position.X = 24.000000000000000000
+            Position.Y = 16.000000000000000000
+          end
+        end
+      end
+      object Rectangle33: TRectangle
+        Position.X = 984.000000000000000000
+        Position.Y = 16.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        object Rectangle34: TRectangle
+          Position.X = 80.000000000000000000
+          Position.Y = 8.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+        object RoundRect2: TRoundRect
+          Position.X = 40.000000000000000000
+          Position.Y = 16.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+        object RoundRect3: TRoundRect
+          Position.X = 104.000000000000000000
+          Position.Y = 8.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+        object Text10: TText
+          Position.X = 192.000000000000000000
+          Position.Y = 16.000000000000000000
+        end
+        object Text11: TText
+          Position.X = 216.000000000000000000
+          Position.Y = 32.000000000000000000
+        end
+        object Rectangle35: TRectangle
+          Position.X = 360.000000000000000000
+          Position.Y = 24.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+    end
+  end
+  object Panel2: TPanel
+    Position.X = 608.000000000000000000
+    Position.Y = 328.000000000000000000
+    TabOrder = 1
+    object Panel4: TPanel
+      Position.X = 136.000000000000000000
+      Position.Y = 504.000000000000000000
+      TabOrder = 0
+      object Rectangle3: TRectangle
+        Position.X = 120.000000000000000000
+        Position.Y = 48.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        object Rectangle25: TRectangle
+          Position.X = 96.000000000000000000
+          Position.Y = 32.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+    end
+    object Panel5: TPanel
+      Position.X = 80.000000000000000000
+      Position.Y = 328.000000000000000000
+      TabOrder = 1
+      object Rectangle2: TRectangle
+        Position.X = 112.000000000000000000
+        Position.Y = 24.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        object Text7: TText
+          Position.X = 176.000000000000000000
+          Position.Y = 32.000000000000000000
+          object Image7: TImage
+            MultiResBitmap = <
+              item
+              end>
+            Position.X = 64.000000000000000000
+            Position.Y = 24.000000000000000000
+          end
+          object Rectangle23: TRectangle
+            Position.X = 24.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Rectangle24: TRectangle
+            Position.X = 248.000000000000000000
+            Position.Y = 16.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+          end
+        end
+      end
+    end
+    object Rectangle1: TRectangle
+      Position.X = 176.000000000000000000
+      Position.Y = 264.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      object ListBox1: TListBox
+        Position.X = 120.000000000000000000
+        Position.Y = 240.000000000000000000
+        TabOrder = 0
+        DisableFocusEffect = True
+        DefaultItemStyles.ItemStyle = ''
+        DefaultItemStyles.GroupHeaderStyle = ''
+        DefaultItemStyles.GroupFooterStyle = ''
+        Viewport.Width = 196.000000000000000000
+        Viewport.Height = 196.000000000000000000
+        object ListBoxItem1: TListBoxItem
+          TabOrder = 0
+          Text = 'ListBoxItem1'
+          object Rectangle5: TRectangle
+            Position.X = 112.000000000000000000
+            Position.Y = 16.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text1: TText
+              Position.X = 168.000000000000000000
+              Position.Y = 24.000000000000000000
+              object Image1: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 40.000000000000000000
+                Position.Y = 24.000000000000000000
+              end
+              object Line1: TLine
+                LineType = Diagonal
+                Position.X = 24.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle6: TRectangle
+                Position.X = 24.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle7: TRectangle
+                Position.X = 256.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle26: TRectangle
+                Position.X = 248.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem2: TListBoxItem
+          Position.Y = 19.000000000000000000
+          TabOrder = 1
+          Text = 'ListBoxItem2'
+          object Rectangle8: TRectangle
+            Position.X = 152.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text2: TText
+              Position.X = 184.000000000000000000
+              Position.Y = 24.000000000000000000
+              object Image2: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 56.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle9: TRectangle
+                Position.X = 24.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle10: TRectangle
+                Position.X = 192.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle27: TRectangle
+                Position.X = 248.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem3: TListBoxItem
+          Position.Y = 38.000000000000000000
+          TabOrder = 2
+          Text = 'ListBoxItem3'
+          object Rectangle11: TRectangle
+            Position.X = 136.000000000000000000
+            Position.Y = 16.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text3: TText
+              Position.X = 152.000000000000000000
+              Position.Y = 16.000000000000000000
+              object Rectangle12: TRectangle
+                Position.X = 48.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Image3: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 48.000000000000000000
+                Position.Y = 24.000000000000000000
+              end
+              object Rectangle13: TRectangle
+                Position.X = 208.000000000000000000
+                Position.Y = 8.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle28: TRectangle
+                Position.X = 216.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem4: TListBoxItem
+          Position.Y = 57.000000000000000000
+          TabOrder = 3
+          Text = 'ListBoxItem4'
+          object Rectangle14: TRectangle
+            Position.X = 104.000000000000000000
+            Position.Y = 16.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text4: TText
+              Position.X = 136.000000000000000000
+              Position.Y = 24.000000000000000000
+              object Image4: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 48.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle15: TRectangle
+                Position.X = 24.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle16: TRectangle
+                Position.X = 256.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle29: TRectangle
+                Position.X = 240.000000000000000000
+                Position.Y = 32.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem5: TListBoxItem
+          Position.Y = 76.000000000000000000
+          TabOrder = 4
+          Text = 'ListBoxItem5'
+          object Rectangle17: TRectangle
+            Position.X = 160.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text5: TText
+              Position.X = 160.000000000000000000
+              Position.Y = 16.000000000000000000
+              object Image5: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 32.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle18: TRectangle
+                Position.X = 216.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle20: TRectangle
+                Position.X = 24.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle30: TRectangle
+                Position.X = 256.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem6: TListBoxItem
+          Position.Y = 95.000000000000000000
+          TabOrder = 5
+          Text = 'ListBoxItem6'
+          object Rectangle19: TRectangle
+            Position.X = 120.000000000000000000
+            Position.Y = 8.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text6: TText
+              Position.X = 80.000000000000000000
+              Position.Y = 16.000000000000000000
+              object Image6: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 48.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle21: TRectangle
+                Position.X = 272.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle22: TRectangle
+                Position.X = 272.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle31: TRectangle
+                Position.X = 256.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  object Panel3: TPanel
+    Position.X = 832.000000000000000000
+    Position.Y = 208.000000000000000000
+    TabOrder = 2
+    inline Frame71: TFrame7
+      Position.X = 144.000000000000000000
+      Position.Y = 248.000000000000000000
+      Size.Width = 1441.000000000000000000
+      Size.Height = 1027.000000000000000000
+      Size.PlatformDefault = False
+      inherited Panel1: TPanel
+        inherited Rectangle1: TRectangle
+          inherited ListBox1: TListBox
+            Viewport.Width = 1437.000000000000000000
+            Viewport.Height = 1023.000000000000000000
+            inherited ListBoxItem1: TListBoxItem
+              inherited Rectangle2: TRectangle
+                Stroke.Thickness = 0.000000000000000000
+                inherited Text1: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text2: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text4: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text6: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text8: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text10: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text12: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text14: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text16: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text18: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text20: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text22: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text24: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text26: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text28: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+              inherited Rectangle3: TRectangle
+                inherited Text30: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text31: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text33: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text35: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text37: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text39: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text41: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text43: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text45: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text47: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text49: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text51: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text53: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text55: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text57: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+              inherited Rectangle4: TRectangle
+                inherited Text59: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text60: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text62: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text64: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text66: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text68: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text70: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text72: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text74: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text76: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text78: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text80: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text82: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text84: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text86: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+              inherited Rectangle5: TRectangle
+                inherited Text88: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text89: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text91: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text93: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text95: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text97: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text99: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text101: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text103: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text105: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text107: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text109: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text111: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text113: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text115: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+              inherited Rectangle6: TRectangle
+                inherited Text117: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text118: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text120: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text122: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text124: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text126: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text128: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text130: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text132: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text134: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text136: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text138: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text140: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text142: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text144: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+              inherited Rectangle7: TRectangle
+                inherited Text146: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text147: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text149: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text151: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text153: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text155: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text157: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text159: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text161: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text163: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text165: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text167: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text169: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text171: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+                inherited Text173: TText
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    inline Frame81: TFrame8
+      Position.X = 240.000000000000000000
+      Position.Y = 256.000000000000000000
+      Size.Width = 1321.000000000000000000
+      Size.Height = 837.000000000000000000
+      Size.PlatformDefault = False
+      inherited Panel1: TPanel
+        inherited Rectangle1: TRectangle
+          inherited ListBox1: TListBox
+            Viewport.Width = 1317.000000000000000000
+            Viewport.Height = 833.000000000000000000
+            inherited ListBoxItem1: TListBoxItem
+              inherited Rectangle2: TRectangle
+                inherited Rectangle6: TRectangle
+                  inherited Text1: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text2: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text3: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle7: TRectangle
+                  inherited Text4: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text5: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text6: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle8: TRectangle
+                  inherited Text7: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text8: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text9: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem2: TListBoxItem
+              inherited Rectangle9: TRectangle
+                inherited Rectangle13: TRectangle
+                  inherited Text10: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text11: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text12: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle14: TRectangle
+                  inherited Text13: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text14: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text15: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle15: TRectangle
+                  inherited Text16: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text17: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text18: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem3: TListBoxItem
+              inherited Rectangle16: TRectangle
+                inherited Rectangle20: TRectangle
+                  inherited Text19: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text20: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text21: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle21: TRectangle
+                  inherited Text22: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text23: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text24: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle22: TRectangle
+                  inherited Text25: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text26: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text27: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem4: TListBoxItem
+              inherited Rectangle23: TRectangle
+                inherited Rectangle27: TRectangle
+                  inherited Text28: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text29: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text30: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle28: TRectangle
+                  inherited Text31: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text32: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text33: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle29: TRectangle
+                  inherited Text34: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text35: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text36: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem5: TListBoxItem
+              inherited Rectangle30: TRectangle
+                inherited Rectangle34: TRectangle
+                  inherited Text37: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text38: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text39: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle35: TRectangle
+                  inherited Text40: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text41: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text42: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle36: TRectangle
+                  inherited Text43: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text44: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text45: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem6: TListBoxItem
+              inherited Rectangle37: TRectangle
+                inherited Rectangle41: TRectangle
+                  inherited Text46: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text47: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text48: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle42: TRectangle
+                  inherited Text49: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text50: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text51: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle43: TRectangle
+                  inherited Text52: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text53: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text54: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem7: TListBoxItem
+              inherited Rectangle44: TRectangle
+                inherited Rectangle48: TRectangle
+                  inherited Text55: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text56: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text57: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle49: TRectangle
+                  inherited Text58: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text59: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text60: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle50: TRectangle
+                  inherited Text61: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text62: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text63: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+            inherited ListBoxItem8: TListBoxItem
+              inherited Rectangle51: TRectangle
+                inherited Rectangle55: TRectangle
+                  inherited Text64: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text65: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text66: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle56: TRectangle
+                  inherited Text67: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text68: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text69: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+                inherited Rectangle57: TRectangle
+                  inherited Text70: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text71: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text72: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    inline Frame91: TFrame9
+      Position.X = 304.000000000000000000
+      Position.Y = 264.000000000000000000
+      Size.Width = 1300.000000000000000000
+      Size.Height = 840.000000000000000000
+      Size.PlatformDefault = False
+      inherited Panel1: TPanel
+        inherited Rectangle1: TRectangle
+          inherited ListBox1: TListBox
+            Viewport.Width = 1296.000000000000000000
+            Viewport.Height = 836.000000000000000000
+            inherited ListBoxItem1: TListBoxItem
+              inherited Rectangle2: TRectangle
+                inherited Rectangle3: TRectangle
+                  Anchors = [akLeft]
+                end
+                inherited Text1: TText
+                  Anchors = [akLeft]
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text2: TText
+                  Anchors = [akLeft]
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Line1: TLine
+                  Anchors = [akLeft]
+                end
+                inherited Rectangle4: TRectangle
+                  Anchors = [akLeft]
+                end
+                inherited Text3: TText
+                  Anchors = [akLeft]
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Rectangle5: TRectangle
+                  Anchors = [akLeft]
+                end
+                inherited Text4: TText
+                  Anchors = [akLeft]
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem2: TListBoxItem
+              inherited Rectangle30: TRectangle
+                inherited Text29: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text30: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text31: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text32: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem3: TListBoxItem
+              inherited Rectangle34: TRectangle
+                inherited Text33: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text34: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text35: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text36: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem4: TListBoxItem
+              inherited Rectangle38: TRectangle
+                inherited Text37: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text38: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text39: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text40: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem5: TListBoxItem
+              inherited Rectangle42: TRectangle
+                inherited Text41: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text42: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text43: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text44: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem6: TListBoxItem
+              inherited Rectangle46: TRectangle
+                inherited Text45: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text46: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text47: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text48: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem7: TListBoxItem
+              inherited Rectangle50: TRectangle
+                inherited Text49: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text50: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text51: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text52: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem8: TListBoxItem
+              inherited Rectangle54: TRectangle
+                inherited Text53: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text54: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text55: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text56: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem9: TListBoxItem
+              inherited Rectangle58: TRectangle
+                inherited Text57: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text58: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text59: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text60: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem10: TListBoxItem
+              inherited Rectangle6: TRectangle
+                inherited Text5: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text6: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text7: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text8: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem11: TListBoxItem
+              inherited Rectangle10: TRectangle
+                inherited Text9: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text10: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text11: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text12: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem12: TListBoxItem
+              inherited Rectangle14: TRectangle
+                inherited Text13: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text14: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text15: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text16: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem13: TListBoxItem
+              inherited Rectangle18: TRectangle
+                inherited Text17: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text18: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text19: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text20: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem14: TListBoxItem
+              inherited Rectangle22: TRectangle
+                inherited Text21: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text22: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text23: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text24: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem15: TListBoxItem
+              inherited Rectangle26: TRectangle
+                inherited Text25: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text26: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text27: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text28: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    inline Frame101: TFrame10
+      Position.X = 368.000000000000000000
+      Position.Y = 280.000000000000000000
+      Size.Width = 1259.000000000000000000
+      Size.Height = 789.000000000000000000
+      Size.PlatformDefault = False
+      inherited Panel1: TPanel
+        inherited Rectangle1: TRectangle
+          inherited ListBox1: TListBox
+            Viewport.Width = 1255.000000000000000000
+            Viewport.Height = 785.000000000000000000
+            inherited ListBoxItem1: TListBoxItem
+              inherited Rectangle2: TRectangle
+                inherited Text1: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text2: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text3: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text4: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text5: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem2: TListBoxItem
+              inherited Rectangle37: TRectangle
+                inherited Text36: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text37: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text38: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text39: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text40: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem3: TListBoxItem
+              inherited Rectangle42: TRectangle
+                inherited Text41: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text42: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text43: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text44: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text45: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem4: TListBoxItem
+              inherited Rectangle47: TRectangle
+                inherited Text46: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text47: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text48: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text49: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text50: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem5: TListBoxItem
+              inherited Rectangle52: TRectangle
+                inherited Text51: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text52: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text53: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text54: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text55: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem6: TListBoxItem
+              inherited Rectangle57: TRectangle
+                inherited Text56: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text57: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text58: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text59: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text60: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem7: TListBoxItem
+              inherited Rectangle62: TRectangle
+                inherited Text61: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text62: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text63: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text64: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text65: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem8: TListBoxItem
+              inherited Rectangle67: TRectangle
+                inherited Text66: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text67: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text68: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text69: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text70: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem9: TListBoxItem
+              inherited Rectangle72: TRectangle
+                inherited Text71: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text72: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text73: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text74: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text75: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem10: TListBoxItem
+              inherited Rectangle7: TRectangle
+                inherited Text6: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text7: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text8: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text9: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text10: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem11: TListBoxItem
+              inherited Rectangle12: TRectangle
+                inherited Text11: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text12: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text13: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text14: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text15: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem12: TListBoxItem
+              inherited Rectangle17: TRectangle
+                inherited Text16: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text17: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text18: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text19: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text20: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem13: TListBoxItem
+              inherited Rectangle22: TRectangle
+                inherited Text21: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text22: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text23: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text24: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text25: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem14: TListBoxItem
+              inherited Rectangle27: TRectangle
+                inherited Text26: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text27: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text28: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text29: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text30: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem15: TListBoxItem
+              inherited Rectangle32: TRectangle
+                inherited Text31: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text32: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text33: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text34: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text35: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    inline Frame111: TFrame11
+      Position.X = 224.000000000000000000
+      Position.Y = 160.000000000000000000
+      Size.Width = 1391.000000000000000000
+      Size.Height = 841.000000000000000000
+      Size.PlatformDefault = False
+      inherited Panel1: TPanel
+        inherited Rectangle1: TRectangle
+          inherited ListBox1: TListBox
+            Viewport.Width = 1387.000000000000000000
+            Viewport.Height = 837.000000000000000000
+            inherited ListBoxItem1: TListBoxItem
+              inherited Rectangle2: TRectangle
+                Stroke.Kind = None
+                inherited Rectangle3: TRectangle
+                  Anchors = [akLeft]
+                end
+                inherited Text1: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text2: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text3: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem2: TListBoxItem
+              inherited Rectangle42: TRectangle
+                inherited Rectangle43: TRectangle
+                  Anchors = [akLeft, akTop, akRight]
+                end
+                inherited Text33: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text34: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text35: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem3: TListBoxItem
+              inherited Rectangle47: TRectangle
+                inherited Rectangle48: TRectangle
+                  Anchors = [akLeft, akTop, akRight]
+                end
+                inherited Text37: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text38: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text39: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem4: TListBoxItem
+              inherited Rectangle52: TRectangle
+                inherited Rectangle53: TRectangle
+                  Anchors = [akLeft, akTop, akRight]
+                end
+                inherited Text41: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text42: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text43: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem5: TListBoxItem
+              inherited Rectangle57: TRectangle
+                inherited Rectangle58: TRectangle
+                  Anchors = [akLeft, akTop, akRight]
+                end
+                inherited Text45: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text46: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text47: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem6: TListBoxItem
+              inherited Rectangle62: TRectangle
+                inherited Text49: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text50: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text51: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem7: TListBoxItem
+              inherited Rectangle67: TRectangle
+                inherited Text53: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text54: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text55: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem8: TListBoxItem
+              inherited Rectangle72: TRectangle
+                inherited Text57: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text58: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text59: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem9: TListBoxItem
+              inherited Rectangle77: TRectangle
+                inherited Text61: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text62: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text63: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem10: TListBoxItem
+              inherited Rectangle7: TRectangle
+                inherited Text5: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text6: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text7: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem11: TListBoxItem
+              inherited Rectangle12: TRectangle
+                inherited Text9: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text10: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text11: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem12: TListBoxItem
+              inherited Rectangle17: TRectangle
+                inherited Text13: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text14: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text15: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem13: TListBoxItem
+              inherited Rectangle22: TRectangle
+                inherited Text17: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text18: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text19: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem14: TListBoxItem
+              inherited Rectangle27: TRectangle
+                inherited Text21: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text22: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text23: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem15: TListBoxItem
+              inherited Rectangle32: TRectangle
+                inherited Text25: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text26: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text27: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+            inherited ListBoxItem16: TListBoxItem
+              inherited Rectangle37: TRectangle
+                inherited Text29: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text30: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+                inherited Text31: TText
+                  TextSettings.Font.StyleExt = {00050000000000000004000000}
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    inline Frame121: TFrame12
+      Position.X = 416.000000000000000000
+      Position.Y = 344.000000000000000000
+      Size.Width = 1671.000000000000000000
+      Size.Height = 1008.000000000000000000
+      Size.PlatformDefault = False
+      inherited Panel1: TPanel
+        inherited Rectangle1: TRectangle
+          inherited Rectangle2: TRectangle
+            inherited Rectangle5: TRectangle
+              inherited Text1: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited Text2: TText
+                TextSettings.Font.StyleExt = {00060000000000000004000000}
+              end
+            end
+            inherited Rectangle6: TRectangle
+              inherited Text3: TText
+                TextSettings.Font.StyleExt = {00060000000000000004000000}
+              end
+              inherited Text4: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited Text7: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+            end
+            inherited Rectangle7: TRectangle
+              inherited Text5: TText
+                TextSettings.Font.StyleExt = {00060000000000000004000000}
+              end
+              inherited Text6: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited Text8: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+            end
+            inherited Panel2: TPanel
+              inherited Frame131: TFrame13
+                inherited Rectangle4: TRectangle
+                  inherited Text11: TText
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                  inherited Text12: TText
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                  inherited Text13: TText
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                  inherited Text14: TText
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                  inherited Text15: TText
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                  inherited Text16: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text17: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text18: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                  inherited Text19: TText
+                    TextSettings.Font.StyleExt = {00050000000000000004000000}
+                  end
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

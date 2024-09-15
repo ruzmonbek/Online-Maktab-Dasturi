@@ -1,0 +1,3079 @@
+object Frame8: TFrame8
+  Size.Width = 1321.000000000000000000
+  Size.Height = 837.000000000000000000
+  Size.PlatformDefault = False
+  object Panel1: TPanel
+    Align = Client
+    Size.Width = 1321.000000000000000000
+    Size.Height = 837.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Client
+      Size.Width = 1321.000000000000000000
+      Size.Height = 837.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Thickness = 0.000000000000000000
+      object ListBox1: TListBox
+        Align = Client
+        Size.Width = 1321.000000000000000000
+        Size.Height = 837.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        DisableFocusEffect = True
+        DefaultItemStyles.ItemStyle = ''
+        DefaultItemStyles.GroupHeaderStyle = ''
+        DefaultItemStyles.GroupFooterStyle = ''
+        Viewport.Width = 1317.000000000000000000
+        Viewport.Height = 833.000000000000000000
+        object ListBoxItem1: TListBoxItem
+          Size.Width = 1317.000000000000000000
+          Size.Height = 108.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object Rectangle2: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 108.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle3: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle4: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle5: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle6: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle6MouseMove
+              object Text1: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Adabiyot'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text2: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image1: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Image2: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Text3: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '3'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFFFD4806
+              end
+            end
+            object Rectangle7: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle7MouseMove
+              object Text4: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Algebra'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text5: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image3: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image4: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text6: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle8: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle8MouseMove
+              object Text7: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Astranomiya'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text8: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image5: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image6: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text9: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem2: TListBoxItem
+          Position.Y = 108.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 1
+          object Rectangle9: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle10: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle11: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle12: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle13: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle13MouseMove
+              object Text10: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Biologiya'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text11: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image7: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image8: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text12: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle14: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle14MouseMove
+              object Text13: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Dasturlash'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text14: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image9: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image10: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text15: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle15: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle15MouseMove
+              object Text16: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Fizika'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text17: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image11: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image12: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text18: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem3: TListBoxItem
+          Position.Y = 208.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 2
+          object Rectangle16: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle17: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle18: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle19: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle20: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle20MouseMove
+              object Text19: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Geografiya'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text20: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image13: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image14: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text21: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle21: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle21MouseMove
+              object Text22: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Geometriya'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text23: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image15: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image16: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text24: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle22: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle22MouseMove
+              object Text25: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Informatika'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text26: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image17: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image18: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text27: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem4: TListBoxItem
+          Position.Y = 308.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 3
+          object Rectangle23: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle24: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle25: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle26: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle27: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle27MouseMove
+              object Text28: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ingliz tili'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text29: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image19: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image20: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text30: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle28: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle28MouseMove
+              object Text31: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Iqtisod'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text32: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image21: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image22: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text33: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle29: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle29MouseMove
+              object Text34: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Jahon Tarixi'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text35: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image23: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image24: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text36: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem5: TListBoxItem
+          Position.Y = 408.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 4
+          object Rectangle30: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle31: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle32: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle33: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle34: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle34MouseMove
+              object Text37: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 200.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Jismoniy Tarbiya'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text38: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image25: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image26: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text39: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle35: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle35MouseMove
+              object Text40: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Kimyo'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text41: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image27: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image28: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text42: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle36: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle36MouseMove
+              object Text43: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ona Tili'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text44: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image29: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image30: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text45: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem6: TListBoxItem
+          Position.Y = 508.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 5
+          object Rectangle37: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 100.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle38: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle39: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle40: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle41: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle41MouseMove
+              object Text46: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'O'#39'zbekiston Tarixi'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text47: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image31: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Image32: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Text48: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '3'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFFFD4806
+              end
+            end
+            object Rectangle42: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle42MouseMove
+              object Text49: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Rus Tili'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text50: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image33: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Image34: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Text51: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '3'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFFFD4806
+              end
+            end
+            object Rectangle43: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle43MouseMove
+              object Text52: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Texnologiya'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text53: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image35: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image36: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text54: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '4'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem7: TListBoxItem
+          Position.Y = 608.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 108.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 6
+          object Rectangle44: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 108.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle45: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle46: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle47: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle48: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle48MouseMove
+              object Text55: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Qo'#39'shimcha Fan'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text56: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image37: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image38: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text57: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle49: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle49MouseMove
+              object Text58: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Qo'#39'shimcha Fan'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text59: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image39: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image40: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text60: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle50: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle50MouseMove
+              object Text61: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Qo'#39'shimcha Fan'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text62: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image41: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image42: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text63: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+        object ListBoxItem8: TListBoxItem
+          Position.Y = 716.000000000000000000
+          Size.Width = 1317.000000000000000000
+          Size.Height = 108.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 7
+          object Rectangle51: TRectangle
+            Align = Client
+            Fill.Color = claWhitesmoke
+            Size.Width = 1317.000000000000000000
+            Size.Height = 108.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Thickness = 0.000000000000000000
+            object Rectangle52: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 8.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle53: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 448.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle54: TRectangle
+              Fill.Color = xFF0063FF
+              Position.X = 888.000000000000000000
+              Position.Y = 7.000000000000000000
+              Size.Width = 415.000000000000000000
+              Size.Height = 93.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Thickness = 0.000000000000000000
+              Visible = False
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+            end
+            object Rectangle55: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 10.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle55MouseMove
+              object Text64: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Qo'#39'shimcha Fan'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text65: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image43: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image44: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text66: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle56: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 450.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle56MouseMove
+              object Text67: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Qo'#39'shimcha Fan'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text68: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image45: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image46: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text69: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+            object Rectangle57: TRectangle
+              Fill.Color = claWhitesmoke
+              Position.X = 890.000000000000000000
+              Position.Y = 9.000000000000000000
+              Size.Width = 411.000000000000000000
+              Size.Height = 89.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Color = xFF0063FF
+              XRadius = 10.000000000000000000
+              YRadius = 10.000000000000000000
+              OnMouseMove = Rectangle57MouseMove
+              object Text70: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 20.000000000000000000
+                Size.Width = 220.000000000000000000
+                Size.Height = 29.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Qo'#39'shimcha Fan'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 24.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF0063FF
+                TextSettings.HorzAlign = Leading
+              end
+              object Text71: TText
+                Position.X = 40.000000000000000000
+                Position.Y = 54.000000000000000000
+                Size.Width = 215.000000000000000000
+                Size.Height = 19.000000000000000000
+                Size.PlatformDefault = False
+                Text = 'Ro'#39'zmonbek Qurbonazarov'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 16.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = claGray
+              end
+              object Image47: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001C6494441546881EDD64D4EC2
+                      4018C6F1FF8C4870C711F0162682E9CACC921B504F029E043C012ED9F9B5F116
+                      7A047712A58C0B29012CA51F6F3BC4CC93744107E6FD3D8BD25108C706417BDE
+                      9AB793D6CE66AFEF92B3B4E46600512BEA37397D4BBA3ECD4547729638BECE78
+                      BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCAB78BCABFC2FBC
+                      35416771DDEBBBC0A425C9B485B726E858960F4A335D98CB417DB4F444A63B54
+                      9A69647AE3CDFB6B7C0CB7D80E80424F8EA14064BA4350A3D5C770B38086BFF0
+                      38AE0BECC0E3AC0B68DB0FDA49F038AE0AEC81C70923D31B6B75FFF861E12E6D
+                      A3BA0B1C800360E149039CCC9E47A06ED3BE5C57818CF09BC6EC65B27E608FA1
+                      401E38ECFC55BA2C90170E092F2917058AC061CFF1A0CE0245E19072B6A9A340
+                      19381C38985559A02C1C329C2AAB282001FF9D9B79E0D508EC307DE03204AD14
+                      8C93D6BFF83E6FD21848C021071EB21550F06821D8B33C01C2B4DF6785AF66E5
+                      4B96024593070E05F0504D81BC70288807D90245E050020F32058AC2A1241ECA
+                      15280307013C142B50160E4278C85740020E8278C8FA22938183301ED20B48C2
+                      A1023C24179086434578D82E5005BCF244E66AB230BDB0AAFD7F002F3315A39E
+                      C812DE0000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Visible = False
+              end
+              object Image48: TImage
+                MultiResBitmap = <
+                  item
+                    Width = 47
+                    Height = 52
+                    PNG = {
+                      89504E470D0A1A0A0000000D494844520000002F0000003408060000001A3661
+                      F40000000473424954080808087C086488000001B1494441546881EDD7314E02
+                      4114C6F1EFCD626FED0DEC206BACE10698486FE5355C8E606B43EC0C5A7004AD
+                      5D229547B0C65242181B9F81757699999DDD87C9FC4BB2197E1F2C048098B974
+                      3E9A9CCD2F6F9A3A9F9A3A389D8F2644740500D09B2C4F9FC6A19FA311FC0E9C
+                      6B604070BC11CE051E10145F09E7020E0886B78273810604C13BC1B900036AE3
+                      BDE05CCD01B5F0B5E05C8D01DEF82070CE7380173E289CF318E08C6F04CE390E
+                      502E675BC0975AEBDB521B705FF904A43297DF4289ED8536705AEBC1A69380A0
+                      87A60B8EBE56179B24F904A15F7A0A51FFE4FA141F77EF2FFB4C56AFBC2DFCF5
+                      FC71B1EFAC3C9D66D0A8BE352CDF81BDF890702ED4804A7C13702EC480527C93
+                      70AEEE0023BE0D385767C01F7C9B70CE77C00E5E02CEF90CF8C54BC239D7010A
+                      380C38E7324075DF86C744D4ADB8B435386735008AD4A2375BAE69350060C2B5
+                      0EE72A07688CF3749A290028192006E78C037EE0C0D607B630401CCEED0CD882
+                      0385AF4A1E7028702E4FA719480DB6E100D0295EB8E8CD9630DFFFA2E5BD87E7
+                      E2634E7F460EAD88972AE2A58A78A9225EAA88972AE2A58A78A9225EAA88972A
+                      E2A5FAD7F86FD6F4412BC35733140000000049454E44AE426082}
+                  end>
+                Align = Right
+                Margins.Right = 5.000000000000000000
+                Position.X = 354.000000000000000000
+                Size.Width = 52.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Text72: TText
+                Position.X = 300.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 89.000000000000000000
+                Size.PlatformDefault = False
+                Text = '5'
+                TextSettings.Font.Family = 'Inter'
+                TextSettings.Font.Size = 72.000000000000000000
+                TextSettings.Font.StyleExt = {00050000000000000004000000}
+                TextSettings.FontColor = xFF34CE56
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

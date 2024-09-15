@@ -1,0 +1,254 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Panel1: TPanel
+    Position.X = 288.000000000000000000
+    Position.Y = 88.000000000000000000
+    TabOrder = 1
+    object Rectangle2: TRectangle
+      Position.X = 416.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Panel2: TPanel
+    Position.X = 544.000000000000000000
+    Position.Y = 168.000000000000000000
+    TabOrder = 2
+    object Panel4: TPanel
+      Position.X = 160.000000000000000000
+      Position.Y = 600.000000000000000000
+      TabOrder = 1
+      object Rectangle8: TRectangle
+        Position.X = 168.000000000000000000
+        Position.Y = 24.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        object Rectangle9: TRectangle
+          Position.X = 144.000000000000000000
+          Position.Y = 16.000000000000000000
+          Size.Width = 50.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+        end
+      end
+    end
+    object Panel5: TPanel
+      Position.X = 160.000000000000000000
+      Position.Y = 488.000000000000000000
+      TabOrder = 2
+      object Rectangle7: TRectangle
+        Position.X = 208.000000000000000000
+        Position.Y = 24.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        object Text5: TText
+          Position.X = 160.000000000000000000
+          Position.Y = 16.000000000000000000
+          object Image5: TImage
+            MultiResBitmap = <
+              item
+              end>
+            Position.X = 64.000000000000000000
+            Position.Y = 24.000000000000000000
+          end
+          object Rectangle14: TRectangle
+            Position.X = 264.000000000000000000
+            Position.Y = 8.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Rectangle19: TRectangle
+            Position.X = 264.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+          end
+        end
+      end
+    end
+    object Rectangle1: TRectangle
+      Position.X = 152.000000000000000000
+      Position.Y = 224.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      object ListBox1: TListBox
+        Position.X = 144.000000000000000000
+        Position.Y = 160.000000000000000000
+        TabOrder = 0
+        DisableFocusEffect = True
+        DefaultItemStyles.ItemStyle = ''
+        DefaultItemStyles.GroupHeaderStyle = ''
+        DefaultItemStyles.GroupFooterStyle = ''
+        Viewport.Width = 196.000000000000000000
+        Viewport.Height = 196.000000000000000000
+        object ListBoxItem1: TListBoxItem
+          TabOrder = 0
+          Text = 'ListBoxItem1'
+          object Rectangle3: TRectangle
+            Position.X = 144.000000000000000000
+            Position.Y = 16.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text1: TText
+              Position.X = 136.000000000000000000
+              Position.Y = 24.000000000000000000
+              object Image1: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 48.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle10: TRectangle
+                Position.X = 32.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle15: TRectangle
+                Position.X = 272.000000000000000000
+                Position.Y = 8.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem2: TListBoxItem
+          Position.Y = 19.000000000000000000
+          TabOrder = 1
+          Text = 'ListBoxItem2'
+          object Rectangle4: TRectangle
+            Position.X = 128.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text2: TText
+              Position.X = 104.000000000000000000
+              Position.Y = 24.000000000000000000
+              object Image2: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 64.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle11: TRectangle
+                Position.X = 24.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle16: TRectangle
+                Position.X = 216.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem3: TListBoxItem
+          Position.Y = 38.000000000000000000
+          TabOrder = 2
+          Text = 'ListBoxItem3'
+          object Rectangle5: TRectangle
+            Position.X = 160.000000000000000000
+            Position.Y = 24.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text3: TText
+              Position.X = 152.000000000000000000
+              Position.Y = 16.000000000000000000
+              object Image3: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 40.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle12: TRectangle
+                Position.X = 256.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle17: TRectangle
+                Position.X = 240.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+        object ListBoxItem4: TListBoxItem
+          Position.Y = 57.000000000000000000
+          TabOrder = 3
+          Text = 'ListBoxItem4'
+          object Rectangle6: TRectangle
+            Position.X = 176.000000000000000000
+            Position.Y = 16.000000000000000000
+            Size.Width = 50.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            object Text4: TText
+              Position.X = 120.000000000000000000
+              Position.Y = 24.000000000000000000
+              object Image4: TImage
+                MultiResBitmap = <
+                  item
+                  end>
+                Position.X = 64.000000000000000000
+                Position.Y = 16.000000000000000000
+              end
+              object Rectangle13: TRectangle
+                Position.X = 280.000000000000000000
+                Position.Y = 24.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+              object Rectangle18: TRectangle
+                Position.X = 264.000000000000000000
+                Position.Y = 16.000000000000000000
+                Size.Width = 50.000000000000000000
+                Size.Height = 50.000000000000000000
+                Size.PlatformDefault = False
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+  object Panel3: TPanel
+    Position.X = 792.000000000000000000
+    Position.Y = 344.000000000000000000
+    TabOrder = 3
+  end
+end

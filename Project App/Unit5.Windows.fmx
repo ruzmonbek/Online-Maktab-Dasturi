@@ -1,0 +1,7 @@
+inherited Form5_Windows: TForm5_Windows
+  Caption = 'Online Maktab Kompanya'
+  ClientHeight = 735
+  ClientWidth = 1095
+  WindowState = wsMaximized
+  DesignerMasterStyle = 0
+end

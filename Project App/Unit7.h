@@ -1,0 +1,219 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit7H
+#define Unit7H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <FMX.Controls.hpp>
+#include <FMX.Forms.hpp>
+#include <FMX.Controls.Presentation.hpp>
+#include <FMX.Layouts.hpp>
+#include <FMX.ListBox.hpp>
+#include <FMX.Objects.hpp>
+#include <FMX.StdCtrls.hpp>
+#include <FMX.Types.hpp>
+//---------------------------------------------------------------------------
+class TFrame7 : public TFrame
+{
+__published:	// IDE-managed Components
+	TPanel *Panel1;
+	TRectangle *Rectangle1;
+	TListBox *ListBox1;
+	TListBoxItem *ListBoxItem1;
+	TRectangle *Rectangle2;
+	TText *Text1;
+	TLine *Line1;
+	TText *Text2;
+	TText *Text3;
+	TText *Text4;
+	TText *Text5;
+	TText *Text6;
+	TText *Text7;
+	TText *Text8;
+	TText *Text9;
+	TText *Text10;
+	TText *Text11;
+	TText *Text12;
+	TText *Text13;
+	TText *Text14;
+	TText *Text15;
+	TText *Text16;
+	TText *Text17;
+	TText *Text18;
+	TText *Text19;
+	TText *Text20;
+	TText *Text21;
+	TText *Text22;
+	TText *Text23;
+	TText *Text24;
+	TText *Text25;
+	TText *Text26;
+	TText *Text27;
+	TText *Text28;
+	TText *Text29;
+	TRectangle *Rectangle3;
+	TText *Text30;
+	TLine *Line2;
+	TText *Text31;
+	TText *Text32;
+	TText *Text33;
+	TText *Text34;
+	TText *Text35;
+	TText *Text36;
+	TText *Text37;
+	TText *Text38;
+	TText *Text39;
+	TText *Text40;
+	TText *Text41;
+	TText *Text42;
+	TText *Text43;
+	TText *Text44;
+	TText *Text45;
+	TText *Text46;
+	TText *Text47;
+	TText *Text48;
+	TText *Text49;
+	TText *Text50;
+	TText *Text51;
+	TText *Text52;
+	TText *Text53;
+	TText *Text54;
+	TText *Text55;
+	TText *Text56;
+	TText *Text57;
+	TText *Text58;
+	TRectangle *Rectangle4;
+	TText *Text59;
+	TLine *Line3;
+	TText *Text60;
+	TText *Text61;
+	TText *Text62;
+	TText *Text63;
+	TText *Text64;
+	TText *Text65;
+	TText *Text66;
+	TText *Text67;
+	TText *Text68;
+	TText *Text69;
+	TText *Text70;
+	TText *Text71;
+	TText *Text72;
+	TText *Text73;
+	TText *Text74;
+	TText *Text75;
+	TText *Text76;
+	TText *Text77;
+	TText *Text78;
+	TText *Text79;
+	TText *Text80;
+	TText *Text81;
+	TText *Text82;
+	TText *Text83;
+	TText *Text84;
+	TText *Text85;
+	TText *Text86;
+	TText *Text87;
+	TRectangle *Rectangle5;
+	TText *Text88;
+	TLine *Line4;
+	TText *Text89;
+	TText *Text90;
+	TText *Text91;
+	TText *Text92;
+	TText *Text93;
+	TText *Text94;
+	TText *Text95;
+	TText *Text96;
+	TText *Text97;
+	TText *Text98;
+	TText *Text99;
+	TText *Text100;
+	TText *Text101;
+	TText *Text102;
+	TText *Text103;
+	TText *Text104;
+	TText *Text105;
+	TText *Text106;
+	TText *Text107;
+	TText *Text108;
+	TText *Text109;
+	TText *Text110;
+	TText *Text111;
+	TText *Text112;
+	TText *Text113;
+	TText *Text114;
+	TText *Text115;
+	TText *Text116;
+	TRectangle *Rectangle6;
+	TText *Text117;
+	TLine *Line5;
+	TText *Text118;
+	TText *Text119;
+	TText *Text120;
+	TText *Text121;
+	TText *Text122;
+	TText *Text123;
+	TText *Text124;
+	TText *Text125;
+	TText *Text126;
+	TText *Text127;
+	TText *Text128;
+	TText *Text129;
+	TText *Text130;
+	TText *Text131;
+	TText *Text132;
+	TText *Text133;
+	TText *Text134;
+	TText *Text135;
+	TText *Text136;
+	TText *Text137;
+	TText *Text138;
+	TText *Text139;
+	TText *Text140;
+	TText *Text141;
+	TText *Text142;
+	TText *Text143;
+	TText *Text144;
+	TText *Text145;
+	TRectangle *Rectangle7;
+	TText *Text146;
+	TLine *Line6;
+	TText *Text147;
+	TText *Text148;
+	TText *Text149;
+	TText *Text150;
+	TText *Text151;
+	TText *Text152;
+	TText *Text153;
+	TText *Text154;
+	TText *Text155;
+	TText *Text156;
+	TText *Text157;
+	TText *Text158;
+	TText *Text159;
+	TText *Text160;
+	TText *Text161;
+	TText *Text162;
+	TText *Text163;
+	TText *Text164;
+	TText *Text165;
+	TText *Text166;
+	TText *Text167;
+	TText *Text168;
+	TText *Text169;
+	TText *Text170;
+	TText *Text171;
+	TText *Text172;
+	TText *Text173;
+	TText *Text174;
+	void __fastcall Rectangle2MouseMove(TObject *Sender, TShiftState Shift, float X,
+          float Y);
+	void __fastcall Rectangle2Click(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TFrame7(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TFrame7 *Frame7;
+//---------------------------------------------------------------------------
+#endif

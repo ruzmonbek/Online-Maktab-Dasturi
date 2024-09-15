@@ -1,0 +1,194 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit10H
+#define Unit10H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <FMX.Controls.hpp>
+#include <FMX.Forms.hpp>
+#include <FMX.Controls.Presentation.hpp>
+#include <FMX.Objects.hpp>
+#include <FMX.StdCtrls.hpp>
+#include <FMX.Types.hpp>
+#include <FMX.Layouts.hpp>
+#include <FMX.ListBox.hpp>
+//---------------------------------------------------------------------------
+class TFrame10 : public TFrame
+{
+__published:	// IDE-managed Components
+	TPanel *Panel1;
+	TRectangle *Rectangle1;
+	TListBox *ListBox1;
+	TListBoxItem *ListBoxItem1;
+	TListBoxItem *ListBoxItem2;
+	TListBoxItem *ListBoxItem3;
+	TListBoxItem *ListBoxItem4;
+	TListBoxItem *ListBoxItem5;
+	TListBoxItem *ListBoxItem6;
+	TListBoxItem *ListBoxItem7;
+	TListBoxItem *ListBoxItem8;
+	TListBoxItem *ListBoxItem9;
+	TListBoxItem *ListBoxItem10;
+	TListBoxItem *ListBoxItem11;
+	TListBoxItem *ListBoxItem12;
+	TListBoxItem *ListBoxItem13;
+	TListBoxItem *ListBoxItem14;
+	TListBoxItem *ListBoxItem15;
+	TRectangle *Rectangle2;
+	TRectangle *Rectangle3;
+	TText *Text1;
+	TRectangle *Rectangle4;
+	TText *Text2;
+	TRectangle *Rectangle5;
+	TText *Text3;
+	TRectangle *Rectangle6;
+	TText *Text4;
+	TText *Text5;
+	TRectangle *Rectangle7;
+	TRectangle *Rectangle8;
+	TText *Text6;
+	TRectangle *Rectangle9;
+	TText *Text7;
+	TRectangle *Rectangle10;
+	TText *Text8;
+	TRectangle *Rectangle11;
+	TText *Text9;
+	TText *Text10;
+	TRectangle *Rectangle12;
+	TRectangle *Rectangle13;
+	TText *Text11;
+	TRectangle *Rectangle14;
+	TText *Text12;
+	TRectangle *Rectangle15;
+	TText *Text13;
+	TRectangle *Rectangle16;
+	TText *Text14;
+	TText *Text15;
+	TRectangle *Rectangle17;
+	TRectangle *Rectangle18;
+	TText *Text16;
+	TRectangle *Rectangle19;
+	TText *Text17;
+	TRectangle *Rectangle20;
+	TText *Text18;
+	TRectangle *Rectangle21;
+	TText *Text19;
+	TText *Text20;
+	TRectangle *Rectangle22;
+	TRectangle *Rectangle23;
+	TText *Text21;
+	TRectangle *Rectangle24;
+	TText *Text22;
+	TRectangle *Rectangle25;
+	TText *Text23;
+	TRectangle *Rectangle26;
+	TText *Text24;
+	TText *Text25;
+	TRectangle *Rectangle27;
+	TRectangle *Rectangle28;
+	TText *Text26;
+	TRectangle *Rectangle29;
+	TText *Text27;
+	TRectangle *Rectangle30;
+	TText *Text28;
+	TRectangle *Rectangle31;
+	TText *Text29;
+	TText *Text30;
+	TRectangle *Rectangle32;
+	TRectangle *Rectangle33;
+	TText *Text31;
+	TRectangle *Rectangle34;
+	TText *Text32;
+	TRectangle *Rectangle35;
+	TText *Text33;
+	TRectangle *Rectangle36;
+	TText *Text34;
+	TText *Text35;
+	TRectangle *Rectangle37;
+	TRectangle *Rectangle38;
+	TText *Text36;
+	TRectangle *Rectangle39;
+	TText *Text37;
+	TRectangle *Rectangle40;
+	TText *Text38;
+	TRectangle *Rectangle41;
+	TText *Text39;
+	TText *Text40;
+	TRectangle *Rectangle42;
+	TRectangle *Rectangle43;
+	TText *Text41;
+	TRectangle *Rectangle44;
+	TText *Text42;
+	TRectangle *Rectangle45;
+	TText *Text43;
+	TRectangle *Rectangle46;
+	TText *Text44;
+	TText *Text45;
+	TRectangle *Rectangle47;
+	TRectangle *Rectangle48;
+	TText *Text46;
+	TRectangle *Rectangle49;
+	TText *Text47;
+	TRectangle *Rectangle50;
+	TText *Text48;
+	TRectangle *Rectangle51;
+	TText *Text49;
+	TText *Text50;
+	TRectangle *Rectangle52;
+	TRectangle *Rectangle53;
+	TText *Text51;
+	TRectangle *Rectangle54;
+	TText *Text52;
+	TRectangle *Rectangle55;
+	TText *Text53;
+	TRectangle *Rectangle56;
+	TText *Text54;
+	TText *Text55;
+	TRectangle *Rectangle57;
+	TRectangle *Rectangle58;
+	TText *Text56;
+	TRectangle *Rectangle59;
+	TText *Text57;
+	TRectangle *Rectangle60;
+	TText *Text58;
+	TRectangle *Rectangle61;
+	TText *Text59;
+	TText *Text60;
+	TRectangle *Rectangle62;
+	TRectangle *Rectangle63;
+	TText *Text61;
+	TRectangle *Rectangle64;
+	TText *Text62;
+	TRectangle *Rectangle65;
+	TText *Text63;
+	TRectangle *Rectangle66;
+	TText *Text64;
+	TText *Text65;
+	TRectangle *Rectangle67;
+	TRectangle *Rectangle68;
+	TText *Text66;
+	TRectangle *Rectangle69;
+	TText *Text67;
+	TRectangle *Rectangle70;
+	TText *Text68;
+	TRectangle *Rectangle71;
+	TText *Text69;
+	TText *Text70;
+	TRectangle *Rectangle72;
+	TRectangle *Rectangle73;
+	TText *Text71;
+	TRectangle *Rectangle74;
+	TText *Text72;
+	TRectangle *Rectangle75;
+	TText *Text73;
+	TRectangle *Rectangle76;
+	TText *Text74;
+	TText *Text75;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TFrame10(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TFrame10 *Frame10;
+//---------------------------------------------------------------------------
+#endif

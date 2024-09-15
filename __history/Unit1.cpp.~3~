@@ -1,0 +1,47 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+
+bool IsDragging;
+	TPoint StartPoint;
+
+
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button, TShiftState Shift,
+          int X, int Y)
+{
+    if (Button == mbLeft) {
+        IsDragging = true;
+        StartPoint = TPoint(X, Y);
+	}
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::FormMouseMove(TObject *Sender, TShiftState Shift, int X, int Y)
+
+{
+     if (IsDragging) {
+        TPoint p = ClientToScreen(TPoint(X, Y));
+        p.x -= StartPoint.x;
+        p.y -= StartPoint.y;
+        SetBounds(p.x, p.y, Width, Height);
+	}
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::FormMouseUp(TObject *Sender, TMouseButton Button, TShiftState Shift,
+          int X, int Y)
+{
+IsDragging = false;
+}
+//---------------------------------------------------------------------------
