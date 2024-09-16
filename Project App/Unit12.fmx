@@ -3504,6 +3504,7 @@ object Frame12: TFrame12
         Size.PlatformDefault = False
         Stroke.Color = claBlue
         Stroke.Thickness = 0.000000000000000000
+        Visible = False
         XRadius = 10.000000000000000000
         YRadius = 10.000000000000000000
         object Text20: TText
