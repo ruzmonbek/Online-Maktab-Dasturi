@@ -1,0 +1,179 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit9H
+#define Unit9H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <FMX.Controls.hpp>
+#include <FMX.Forms.hpp>
+#include <FMX.Controls.Presentation.hpp>
+#include <FMX.Layouts.hpp>
+#include <FMX.ListBox.hpp>
+#include <FMX.Objects.hpp>
+#include <FMX.StdCtrls.hpp>
+#include <FMX.Types.hpp>
+//---------------------------------------------------------------------------
+class TFrame9 : public TFrame
+{
+__published:	// IDE-managed Components
+	TPanel *Panel1;
+	TRectangle *Rectangle1;
+	TListBox *ListBox1;
+	TListBoxItem *ListBoxItem1;
+	TListBoxItem *ListBoxItem2;
+	TListBoxItem *ListBoxItem3;
+	TListBoxItem *ListBoxItem4;
+	TListBoxItem *ListBoxItem5;
+	TListBoxItem *ListBoxItem6;
+	TListBoxItem *ListBoxItem7;
+	TListBoxItem *ListBoxItem8;
+	TListBoxItem *ListBoxItem9;
+	TListBoxItem *ListBoxItem10;
+	TListBoxItem *ListBoxItem11;
+	TListBoxItem *ListBoxItem12;
+	TListBoxItem *ListBoxItem13;
+	TListBoxItem *ListBoxItem14;
+	TListBoxItem *ListBoxItem15;
+	TRectangle *Rectangle2;
+	TRectangle *Rectangle3;
+	TText *Text1;
+	TText *Text2;
+	TLine *Line1;
+	TRectangle *Rectangle4;
+	TText *Text3;
+	TRectangle *Rectangle5;
+	TText *Text4;
+	TRectangle *Rectangle6;
+	TRectangle *Rectangle7;
+	TText *Text5;
+	TText *Text6;
+	TLine *Line2;
+	TRectangle *Rectangle8;
+	TText *Text7;
+	TRectangle *Rectangle9;
+	TText *Text8;
+	TRectangle *Rectangle10;
+	TRectangle *Rectangle11;
+	TText *Text9;
+	TText *Text10;
+	TLine *Line3;
+	TRectangle *Rectangle12;
+	TText *Text11;
+	TRectangle *Rectangle13;
+	TText *Text12;
+	TRectangle *Rectangle14;
+	TRectangle *Rectangle15;
+	TText *Text13;
+	TText *Text14;
+	TLine *Line4;
+	TRectangle *Rectangle16;
+	TText *Text15;
+	TRectangle *Rectangle17;
+	TText *Text16;
+	TRectangle *Rectangle18;
+	TRectangle *Rectangle19;
+	TText *Text17;
+	TText *Text18;
+	TLine *Line5;
+	TRectangle *Rectangle20;
+	TText *Text19;
+	TRectangle *Rectangle21;
+	TText *Text20;
+	TRectangle *Rectangle22;
+	TRectangle *Rectangle23;
+	TText *Text21;
+	TText *Text22;
+	TLine *Line6;
+	TRectangle *Rectangle24;
+	TText *Text23;
+	TRectangle *Rectangle25;
+	TText *Text24;
+	TRectangle *Rectangle26;
+	TRectangle *Rectangle27;
+	TText *Text25;
+	TText *Text26;
+	TLine *Line7;
+	TRectangle *Rectangle28;
+	TText *Text27;
+	TRectangle *Rectangle29;
+	TText *Text28;
+	TRectangle *Rectangle30;
+	TRectangle *Rectangle31;
+	TText *Text29;
+	TText *Text30;
+	TLine *Line8;
+	TRectangle *Rectangle32;
+	TText *Text31;
+	TRectangle *Rectangle33;
+	TText *Text32;
+	TRectangle *Rectangle34;
+	TRectangle *Rectangle35;
+	TText *Text33;
+	TText *Text34;
+	TLine *Line9;
+	TRectangle *Rectangle36;
+	TText *Text35;
+	TRectangle *Rectangle37;
+	TText *Text36;
+	TRectangle *Rectangle38;
+	TRectangle *Rectangle39;
+	TText *Text37;
+	TText *Text38;
+	TLine *Line10;
+	TRectangle *Rectangle40;
+	TText *Text39;
+	TRectangle *Rectangle41;
+	TText *Text40;
+	TRectangle *Rectangle42;
+	TRectangle *Rectangle43;
+	TText *Text41;
+	TText *Text42;
+	TLine *Line11;
+	TRectangle *Rectangle44;
+	TText *Text43;
+	TRectangle *Rectangle45;
+	TText *Text44;
+	TRectangle *Rectangle46;
+	TRectangle *Rectangle47;
+	TText *Text45;
+	TText *Text46;
+	TLine *Line12;
+	TRectangle *Rectangle48;
+	TText *Text47;
+	TRectangle *Rectangle49;
+	TText *Text48;
+	TRectangle *Rectangle50;
+	TRectangle *Rectangle51;
+	TText *Text49;
+	TText *Text50;
+	TLine *Line13;
+	TRectangle *Rectangle52;
+	TText *Text51;
+	TRectangle *Rectangle53;
+	TText *Text52;
+	TRectangle *Rectangle54;
+	TRectangle *Rectangle55;
+	TText *Text53;
+	TText *Text54;
+	TLine *Line14;
+	TRectangle *Rectangle56;
+	TText *Text55;
+	TRectangle *Rectangle57;
+	TText *Text56;
+	TRectangle *Rectangle58;
+	TRectangle *Rectangle59;
+	TText *Text57;
+	TText *Text58;
+	TLine *Line15;
+	TRectangle *Rectangle60;
+	TText *Text59;
+	TRectangle *Rectangle61;
+	TText *Text60;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TFrame9(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TFrame9 *Frame9;
+//---------------------------------------------------------------------------
+#endif

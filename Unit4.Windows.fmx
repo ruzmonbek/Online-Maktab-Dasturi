@@ -1,0 +1,7 @@
+inherited Form4_Windows: TForm4_Windows
+  Caption = 'Online Maktab Mamuriyat'
+  ClientHeight = 745
+  ClientWidth = 1079
+  WindowState = wsMaximized
+  DesignerMasterStyle = 0
+end
